@@ -70,10 +70,3 @@ int main(){
 	cout<<"Final ";
 	holder2.getAccountDetails();
 }
-
-
-
-
-
-
-
